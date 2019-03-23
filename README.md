@@ -41,14 +41,14 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](http://elec
 Note that you will need to install the latest full version of Raspbian, **don't use the Lite version**.
 
 
-**NOTE - First of all put a "." before following files:-**
+**NOTE - First of all put a "." (FULL STOP) before following files:-**
 
 eslintignore,
 eslintrc.json,
 gitignore,
 snyk,
 stylelintrc,
-travis.yml, 
+travis.yml 
 
 
 then,
