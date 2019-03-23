@@ -40,6 +40,18 @@ MagicMirror² focuses on a modular plugin system and uses [Electron](http://elec
 
 Note that you will need to install the latest full version of Raspbian, **don't use the Lite version**.
 
+**First of all put a "." before following files:-**
+
+eslintignore
+eslintrc.json
+gitignore
+snyk
+stylelintrc
+travis.yml 
+
+
+then,
+
 Execute the following command on your Raspberry Pi to install MagicMirror²:
 
 ```bash
