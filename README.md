@@ -48,7 +48,8 @@ eslintrc.json,
 gitignore,
 snyk,
 stylelintrc,
-travis.yml 
+travis.yml,
+github (folder).
 
 
 then,
